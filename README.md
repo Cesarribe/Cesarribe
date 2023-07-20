@@ -12,3 +12,10 @@ Abaixo alguns dos meus Status na plataforma:
 
 ![Cesarribe GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
+############################################################################################################
+
+Tecnologias que utilizo:
+
+<div style "display: inline_block" ></br> 
+<img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</div>
