@@ -23,6 +23,8 @@ Tecnologias que utilizo:
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
   
-</div>
+</div></br>
 
+###########################################################################################################
 
+Apaixonado por programação e por participar de times com pessoas que também sejam apaixonadas!
