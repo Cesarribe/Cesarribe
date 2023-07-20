@@ -10,5 +10,5 @@ Se quiser acompanhar um pouco sobre minha vida pessoal é so seguir o link abaix
 
 Abaixo alguns dos meus Status na plataforma:
 
-![Cesarribe GitHub stats](https://github-readme-stats.vercel.app/api?username=dracula)
+![Cesarribe GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
