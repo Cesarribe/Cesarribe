@@ -6,6 +6,7 @@ Se quiser acompanhar um pouco sobre minha vida pessoal é so seguir o link abaix
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesaribeir0/)
 
 
+#################################################################################################################
 
 Abaixo alguns dos meus Status na plataforma:
 
