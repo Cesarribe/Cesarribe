@@ -1,5 +1,5 @@
 
-### Olá, Me chamo Júlio César, Sou casado 💍, pai de um lindo casal 👨‍👧‍👦, Maratonista amador e Iron Man em formação 🏃 e Desenvolvedor JAVA Full Stack 🖥️.
+### Olá, Me chamo Júlio César Desenvolvedor JAVA Full Stack 🖥️.
 
 Se quiser acompanhar um pouco sobre minha vida pessoal é so seguir o link abaixo:
 
